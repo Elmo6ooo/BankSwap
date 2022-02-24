@@ -5,7 +5,7 @@ The exchange rate is crawled from the [BANK OF TAIWAN](https://rate.bot.com.tw/x
 
 By access to Mysql, we can achieve swap, deposit, withdraw and transfer.
 
-The balance display utilizes an AJAX post to get the responses from our database.
+The balance display utilizes AJAX post to get responses from our database.
 
 # How to use
 1. Clone this repo into htdocs below xampp folder. (using xampp v5.6.40)
